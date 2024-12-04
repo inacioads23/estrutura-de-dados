@@ -1,4 +1,4 @@
-# Grafos
+# Projetos Estrutura de Dados
 Projetos da Disciplina Estrutura de Dados - 2º Semestre de 2024
 
 ## Grafo Projeto
